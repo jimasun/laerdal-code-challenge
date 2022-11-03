@@ -1,0 +1,6 @@
+# -lib hxnodejs
+# -lib hashlink
+-cp src
+-main Main
+-hl bin/Main.hl
+# -js bin/js/main.js
